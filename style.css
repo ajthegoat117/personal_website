@@ -1,0 +1,56 @@
+h5 {
+    text-align: center;
+    color:black;
+    font-size: 125px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+h3 {
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    font-family: 'Kufam';
+    padding-left: 100px;
+}
+
+    
+
+.homeBody {
+    background-image: url("Untitled\ design-2.png")
+}
+
+.tops {
+    width: 450px;
+    height: 450px;
+    position: absolute;
+    left: 10px;
+    top: 15px;
+}
+
+.bottoms {
+    width: 450px;
+    height: 450px;
+    position: absolute;
+    left: 10px;
+    bottom: -50px;
+}
+
+#essen {
+    width: 250px;
+    position: absolute;
+    left: 100px;
+    bottom: -175px;
+}
+#purplej {
+    bottom: -15px;
+}
+
+.shoes {
+    position: absolute;
+    left: 50px;
+    bottom: -275px;
+    width: 450px;
+    height: 450px;
+}
